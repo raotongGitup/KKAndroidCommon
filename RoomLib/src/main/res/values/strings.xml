@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomLib</string>
+    <string name="home_liaotianshixiaoxi">聊天室内消息</string>
+    <string name="shibai">失败</string>
+    <string name="bimaishibai">闭麦失败</string>
+    <string name="fangjianweikaiqi">房间未开启</string>
+    <string name="shengmiren">神秘人</string>
+</resources>
